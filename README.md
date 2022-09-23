@@ -1,6 +1,6 @@
 # **RANGKUMAN MINGGU 1**
 # *Day 1*
-# Unix Commad Line
+# Unix Command Line
 - ### CLI 
   <div align="justify">Merupakan sebuah program yang memungkinkan user mengetik perintah atau command yang akan mmemerintahkan perangkat komputer untuk melakukan suatu tugas tertentu.
 - ### Shell
@@ -8,7 +8,7 @@
 - ### Terminal
   <div align="justify">User dan komputer dihubungkan dengan namanya terminal, yaitu tempat/aplikasi dimana user dapat mengetikan atau memberikan suatu perintah. Disinilah tempat dimana shell akan berperan.
 - ### File System Structure
-  <div align="justify">Struktur dimana mengatur cara bagaimana data disimpan dalam sistem. Contoh dalam Sistem Operasi Windows struktur file yang disimpan menggunakan struktur yang bentuknya mirip sebuah pohon seperti gambar dibawah.
+  <div align="justify">Struktur dimana mengatur cara bagaimana data disimpan dalam sistem. Contoh dalam Sistem Operasi Windows struktur file yang disimpan menggunakan struktur.
 - ### Command
    ### Contoh beberapa comand:
   - pwd (print working directory), untuk melihat current working directory.
