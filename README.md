@@ -122,11 +122,44 @@
   - Number
   - Math
   - Primitive & Non Primitive
-
-
-
-
-
-
- 
   
+# **RANGKUMAN MINGGU 2**
+# *Day 1*
+# Scope
+<div align="justify">Scope adalah konsep dalam flow data variabel. Menentukan suatu variabel bisa diakses pada scope tertentu atau tidak.
+Blocks adalah code yang berada didalam curly braces {} Conditional, function, dan  looping menggunakan blocks. 
+Global scope berarti variabel yang kita buat dapat diakses dimanapun dalam suatu file. Agar menjadi Global Scope, suatu variabel harus dideklarasikan diluar Blocks.
+Local scope berarti kita mendeklarasikan variabel didalam blocks seperti function, conditional, dan looping. Maka variabel hanya bisa diakses didalam blocks saja. Tidak bisa diakses diluar blocks.
+
+# Function
+<div align="justify">Function adalah sebuah blok kode dalam sebuah grup untuk menyelesaikan 1 task/1 fitur. Saat kita membutuhkan fitur tersebut nantinya, kita bisa kembali menggunakannya.
+
+# *Day 2*
+# Data type and method and properti
+<div align="justify">Semua bahasa pemrograman memiliki struktur data bawaan, tetapi ini sering berbeda dari satu bahasa ke bahasa lainnya. Artikel ini mencoba membuat daftar struktur data bawaan yang tersedia di JavaScript dan properti apa yang mereka miliki. Ini dapat digunakan untuk membangun struktur data lainnya. Jika memungkinkan, perbandingan dengan bahasa lain dibuat.
+<div align="justify">Jenis JavaScript Himpunan tipe dalam bahasa JavaScript terdiri dari nilai dan objek primitif.
+
+  - Data Type
+  - String
+  - Number
+  - Math
+  - Primitive & Non Primitive
+  
+# *Day 3, 4, 5*
+# DOM Manipulation
+<div align="justify">Bagian ini mencakup Model Objek Dokumen JavaScript (DOM) dan menunjukkan kepada Anda cara memanipulasi elemen DOM secara efektif.
+
+- ### Selecting elements
+  - getElementById() – select an element by id.
+  - getElementsByName() – select elements by name.
+  - getElementsByTagName()  – select elements by a tag name.
+  - getElementsByClassName() – select elements by one or more class names.
+  - querySelector()  – select elements by CSS selectors.
+  
+- ### Manipulating elements
+  - createElement() – create a new element.
+  - append() – insert a node after the last child node of a parent node.
+  - removeChild() – remove child elements of a node.
+  
+  
+
