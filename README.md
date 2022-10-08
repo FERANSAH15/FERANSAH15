@@ -161,5 +161,91 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
   - append() – insert a node after the last child node of a parent node.
   - removeChild() – remove child elements of a node.
   
+# **RANGKUMAN MINGGU 3**
+# *Day 1*
+# JavaScript Array
+<div align="justify">Mengorganisasi data dan menyimpan data adalah core concept dari programming. Array adalah tipe data list order yang dapat menyimpan tipe data apapun di dalamnya. Array dapat menyimpan tipe data String, Number, Boolean, dan lainnya.
+
+- ### Mengakses/Memanggil Array
+  <div align="justify">Array pada javascript dihitung dari index data ke-0.
+  <div align="justify">Data pertama adalah index ke-0.
+
+- ### Array Method
+  <div align="justify">Carray memiliki method atau biasa disebut built-in methods. Artinya Javascript sudah memudahkan kita dengan menyediakan function/method umum   yang bisa kita gunakan. Kita tidak perlu membuat function lagi jika method yang kita butuhkan sudah tersedia. Sama halnya dengan Array properti. Kita bisa cek       dokumentasi untuk melihat method yang sudah tersedia.
+
+- ### Looping pada ArrayLooping pada Array
+  <div align="justify">Array memiliki built in methods untuk melakukan looping yaitu .map() dan .forEach()
+  
+# *Day 2*
+# JavaScript Object
+  <div align="justify">object adalah sebuah tipe data pada variabel yang menyimpan properti dan fungsi (method).
+  Properti adalah data lengkap dari sebuah object. Method adalah action dari sebuah object. Apa saja yang dapat dilakukan dari suatu object.
+
+- ### Update Object
+  <div align="justify">Kita dapat melakukan update pada variabel dengan tipe data Object.
+  
+- ### Delete Object Property
+  <div align="justify">Kita dapat menghapus properti dari object menggunakan delete operator.
+  
+- ### Method
+  <div align="justify">Jika value yang kita masukkan pada property berupa function. Maka itu disebut method.
+  
+  - console adalah global javascript object.
+
+  - log() adalah property yang berupa function dari object console.
+
+  - Sehingga kita memanggila dengan cara console.log().
+
+- ### Looping Object
+  <div align="justify">Jika kita ingin menampilkan seluruh object properti. Kita bisa menggunakan looping. Jadi tidak perlu mengakses secara manual memanggil setiap    propertinya.
+  
+- ### Array of Object
+  <div align="justify">Object sama seperti Array yang bisa menyimpan banyak data.Kita dapat menggunakan array of object untuk data yang lebih dari satu.
+  
+# *Day 3*
+# Javascript  Recursive
+  <div align="justify">Recursive adalah function yang memanggil dirinya sendiri sampai kondisi tertentu.  Recursive kebanyakan digunakan untuk case matematika,       fisika, kimia, dan yang berhubungan dengan calculation.
+
+- ### Ciri dari rekursive:
+  - Fungsi rekursif selalu memiliki kondisi yang menyatakan kapan fungsi tersebut berhenti. Kondisi ini harus dapat dibuktikan akan tercapai, karena jika tidak         tercapai maka kita tidak dapat membuktikan bahwa fungsi akan berhenti, yang berarti algoritma kita tidak benar.
+  
+  - Fungsi rekursif selalu memanggil dirinya sendiri sambil mengurangi atau memecahkan data masukan setiap panggilannya. Hal ini penting diingat, karena tujuan         utama dari rekursif ialah memecahkan masalah dengan mengurangi masalah tersebut menjadi masalah-masalah kecil.
+  
+# *Day 4*
+# JavaScript Intermediate  Asynchronous  Introduction & Promise
+  <div align="justify">Pemrograman asinkron adalah teknik yang memungkinkan program Anda untuk memulai tugas yang berpotensi berjalan lama dan masih dapat responsif    terhadap peristiwa lain saat tugas itu berjalan, daripada harus menunggu sampai tugas itu selesai. Setelah tugas itu selesai, program Anda disajikan dengan          hasilnya. Banyak fungsi yang disediakan oleh browser, terutama yang paling menarik, berpotensi memakan waktu lama, dan karena itu, tidak sinkron. Sebagai contoh:
+  
+  - Membuat permintaan HTTP menggunakan fetch()
+  - Mengakses kamera atau mikrofon pengguna menggunakan getUserMedia()
+  - Meminta pengguna untuk memilih file menggunakan showOpenFilePicker()
+
+# *Day 5*
+# JavaScript Intermediate Web Storage
+  <div align="justify">Ada beberapa cara untuk menyimpan data pengguna seperti pencarian, artikel berita, dan lain-lain ke lokal (browser) menggunakan web storage     seperti cookies, local storage, dan session storage. Data ini dimanfaatkan oleh situs web tersebut untuk merekam kebiasaan pengguna agar dapat memberikan           rekomendasi sesuai preferensi si pengguna tersebut.
+  
+- ### Apa itu Cookies?
+  <div align="justify">Cookies adalah data kecil yang dikirim dari situs web dan disimpan di komputer kita oleh web browser saat kita menjelajah. Disebut data kecil   karena maksimum data yang dapat disimpan dalam cookies adalah 4096 bytes (4 KB). Biasanya data yang disimpan di cookies adalah access token pengguna saat login     atau  data pencarian saat melakukan pencarian pada situs web tertentu. Hal ini yang biasanya dilakukan oleh situs pencarian untuk melacak pencarian kita dan         menampilkan  iklan yang berhubungan dengan pencarian kita sebelumnnya. Namun ada beberapa kekurangan yang perlu kita perhatikan mengenai cookies di antaranya:
+
+  - Setiap kita mengakses situs web, cookies juga kembali dikirim sehingga memperlambat aplikasi web kamu dengan mengirimkan data yang sama.
+  - Cookies disertakan pada setiap HTTP request, sehingga mengirimkan data yang tidak dienkripsi melalui internet, maka saat kita ingin menyimpan data dalam cookies     kita harus mengenkripsinya terlebih dahulu.
+  - Cookies hanya dapat menyimpan data sebanyak 4KB.
+  - Lalu cookies juga memiliki tanggal kadaluarsa. Tanggal ini telah ditentukan sehingga web browser bisa menghapus cookies jika tanggal sudah kadaluarsa atau tidak     dibutuhkan.
+  - Kita dapat memanfaatkan jenis web storage yang lain untuk mengatasi kekurangan yang dimiliki cookies.
+  
+- ###  Local Storage dan Session Storage
+  <div align="justify">Dengan memanfaatkan local storage dan session storage, kita dapat menyimpan data lebih besar yaitu 5MB per page tanpa mempengaruhi kinerja     situs web. Namun, penting untuk diketahui agar kita tidak menyimpan data sensitif seperti password ke dalam local storage ataupun session storage untuk             menghindari serangan pencurian data. Pada lesson ini kita akan fokus mempelajari keduanya.
+
+
+
+
+
+
+
+
+
+
+
+
+  
   
 
