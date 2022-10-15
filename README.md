@@ -234,6 +234,26 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
   
 - ###  Local Storage dan Session Storage
   <div align="justify">Dengan memanfaatkan local storage dan session storage, kita dapat menyimpan data lebih besar yaitu 5MB per page tanpa mempengaruhi kinerja     situs web. Namun, penting untuk diketahui agar kita tidak menyimpan data sensitif seperti password ke dalam local storage ataupun session storage untuk             menghindari serangan pencurian data. Pada lesson ini kita akan fokus mempelajari keduanya.
+  
+# **RANGKUMAN MINGGU 4**
+# *Day 1*
+# JavaScript Intermediate - Asynchronous - Fetch
+# JavaScript Intermdiate - Asynchronous - Async Await
+
+# *Day 2*
+# Git & Github Lanjutan
+  <div align="justify">Git adalah aplikasi yang dapat melacak setiap perubahan yang terjadi pada suatu folder atau file. Git biasanya digunakan oleh para programmer   sebagai tempat penyimpanan file pemrograman mereka, karena lebih efektif. File -file yg disimpan menggunakan git akan terlacak seluruh perubahannya, termasuk       siapa yang mengubah. 
+  
+# *Day 3*
+# Responsive Web Design
+  <div align="justify"> Responsive Web Design adalah untuk membuat web kita dapat di akses di divice apa  saja. 
+# Bootstrap 5
+
+# *Day 4*
+# Grup Project
+
+# *Day 5*
+# Grup Project
 
 
 
