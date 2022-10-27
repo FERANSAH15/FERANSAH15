@@ -256,8 +256,13 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
 # Grup Project
 
 
-
-
+# **RANGKUMAN MINGGU 6**
+# *Day 1*
+# Intro React JS dan React JS
+  <div align="justify"> React JS adalah framework view library Javascript untuk membuat tampilan pad sebuah website, mengapa menggunakan React JS karena dengan menggunakan react membuat aplikasi website jauh lebih cepat dan dapat menghandle berbagai data.
+    
+# *Day 2*
+# React JS    
 
 
 
