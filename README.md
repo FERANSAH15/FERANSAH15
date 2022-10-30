@@ -224,7 +224,7 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
   <div align="justify">Ada beberapa cara untuk menyimpan data pengguna seperti pencarian, artikel berita, dan lain-lain ke lokal (browser) menggunakan web storage     seperti cookies, local storage, dan session storage. Data ini dimanfaatkan oleh situs web tersebut untuk merekam kebiasaan pengguna agar dapat memberikan           rekomendasi sesuai preferensi si pengguna tersebut.
   
 - ### Apa itu Cookies?
-  <div align="justify">Cookies adalah data kecil yang dikirim dari situs web dan disimpan di komputer kita oleh web browser saat kita menjelajah. Disebut data kecil   karena maksimum data yang dapat disimpan dalam cookies adalah 4096 bytes (4 KB). Biasanya data yang disimpan di cookies adalah access token pengguna saat login     atau  data pencarian saat melakukan pencarian pada situs web tertentu. Hal ini yang biasanya dilakukan oleh situs pencarian untuk melacak pencarian kita dan         menampilkan  iklan yang berhubungan dengan pencarian kita sebelumnnya. Namun ada beberapa kekurangan yang perlu kita perhatikan mengenai cookies di antaranya:
+<div align="justify">Cookies adalah data kecil yang dikirim dari situs web dan disimpan di komputer kita oleh web browser saat kita menjelajah. Disebut data kecil   karena maksimum data yang dapat disimpan dalam cookies adalah 4096 bytes (4 KB). Biasanya data yang disimpan di cookies adalah access token pengguna saat login     atau  data pencarian saat melakukan pencarian pada situs web tertentu. Hal ini yang biasanya dilakukan oleh situs pencarian untuk melacak pencarian kita dan         menampilkan  iklan yang berhubungan dengan pencarian kita sebelumnnya. Namun ada beberapa kekurangan yang perlu kita perhatikan mengenai cookies di antaranya:
 
   - Setiap kita mengakses situs web, cookies juga kembali dikirim sehingga memperlambat aplikasi web kamu dengan mengirimkan data yang sama.
   - Cookies disertakan pada setiap HTTP request, sehingga mengirimkan data yang tidak dienkripsi melalui internet, maka saat kita ingin menyimpan data dalam cookies     kita harus mengenkripsinya terlebih dahulu.
@@ -233,7 +233,7 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
   - Kita dapat memanfaatkan jenis web storage yang lain untuk mengatasi kekurangan yang dimiliki cookies.
   
 - ###  Local Storage dan Session Storage
-  <div align="justify">Dengan memanfaatkan local storage dan session storage, kita dapat menyimpan data lebih besar yaitu 5MB per page tanpa mempengaruhi kinerja     situs web. Namun, penting untuk diketahui agar kita tidak menyimpan data sensitif seperti password ke dalam local storage ataupun session storage untuk             menghindari serangan pencurian data. Pada lesson ini kita akan fokus mempelajari keduanya.
+<div align="justify">Dengan memanfaatkan local storage dan session storage, kita dapat menyimpan data lebih besar yaitu 5MB per page tanpa mempengaruhi kinerja     situs web. Namun, penting untuk diketahui agar kita tidak menyimpan data sensitif seperti password ke dalam local storage ataupun session storage untuk             menghindari serangan pencurian data. Pada lesson ini kita akan fokus mempelajari keduanya.
   
 # **RANGKUMAN MINGGU 4**
 # *Day 1*
@@ -242,29 +242,44 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
 
 # *Day 2*
 # Git & Github Lanjutan
-  <div align="justify">Git adalah aplikasi yang dapat melacak setiap perubahan yang terjadi pada suatu folder atau file. Git biasanya digunakan oleh para programmer   sebagai tempat penyimpanan file pemrograman mereka, karena lebih efektif. File -file yg disimpan menggunakan git akan terlacak seluruh perubahannya, termasuk       siapa yang mengubah. 
+<div align="justify">Git adalah aplikasi yang dapat melacak setiap perubahan yang terjadi pada suatu folder atau file. Git biasanya digunakan oleh para programmer   sebagai tempat penyimpanan file pemrograman mereka, karena lebih efektif. File -file yg disimpan menggunakan git akan terlacak seluruh perubahannya, termasuk       siapa yang mengubah. 
   
 # *Day 3*
 # Responsive Web Design
-  <div align="justify"> Responsive Web Design adalah untuk membuat web kita dapat di akses di divice apa  saja. 
+<div align="justify"> Responsive Web Design adalah untuk membuat web kita dapat di akses di divice apa  saja. 
 # Bootstrap 5
 
-# *Day 4*
+# *Day 4 dan 5*
 # Grup Project
 
-# *Day 5*
-# Grup Project
-
+# **RANGKUMAN MINGGU 5**
+# *Day 1 sampai 5*
+# Grup Project  
 
 # **RANGKUMAN MINGGU 6**
 # *Day 1*
 # Intro React JS dan React JS
-  <div align="justify"> React JS adalah framework view library Javascript untuk membuat tampilan pad sebuah website, mengapa menggunakan React JS karena dengan menggunakan react membuat aplikasi website jauh lebih cepat dan dapat menghandle berbagai data.
+<div align="justify"> React JS adalah framework view library Javascript untuk membuat tampilan pad sebuah website, mengapa menggunakan React JS karena dengan       menggunakan react membuat aplikasi website jauh lebih cepat dan dapat menghandle berbagai data.
     
-# *Day 2*
-# React JS    
+- ### React JS is FAST
+  <div align="justify">React JS membuat aplikasi front-end menjadi lebih cepat walpun   harus menghandle berbagai data.
+    
+- ### React JS is MODULAR
+  <div align="justify">Kita dapat menerapkan Modular javascript pada React JS, React   JS membagi 1 tampilan pada website menjadi komponen-komponen kecil.
+    
+- ### React JS is Scalable
+  <div align="justify">React JS dapat digunakan pada aplikasi bersekala kecil hingga   besar dan kompleks.
+    
+- ### React JS Popular
+  <div align="justify">Komunitras React JS di sluruh dunia sangat besar, kebanyakan     perusahaan teknologi pun sudah menggunakan React JS.
 
+# *Day 2, 3 dan 5*
+# React JS Component
+<div align="justify">Component adalah salah satu core dari React JS. Component membagi UI dalam satuan-satuan kecil. Artinya dalam 1 page ada beberapa component yang bisa kita buat. Component dibuat jika component tersebut bersifat reusable code. Pada skala project, buatlah component tersebut akan dibutuhkan pada section atau page lain.   
 
+# *Day 4*
+# React JS Hooks
+<div align="justify">Hooks adalah fitur baru yang baru dikenalkan di react js pada tahun 2018 inti dari Hooks adalah untuk memudahkan penggumaan functional components agar bisa menggunakan state, dan lifecycle lainnya. Sebelumnya, state dan lifecycle hanya bisa digunakan di class component namun dengan hooks.
 
 
 
