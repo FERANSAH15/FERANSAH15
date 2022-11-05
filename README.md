@@ -213,7 +213,7 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
   
 # *Day 4*
 # JavaScript Intermediate  Asynchronous  Introduction & Promise
-  <div align="justify">Pemrograman asinkron adalah teknik yang memungkinkan program Anda untuk memulai tugas yang berpotensi berjalan lama dan masih dapat responsif    terhadap peristiwa lain saat tugas itu berjalan, daripada harus menunggu sampai tugas itu selesai. Setelah tugas itu selesai, program Anda disajikan dengan          hasilnya. Banyak fungsi yang disediakan oleh browser, terutama yang paling menarik, berpotensi memakan waktu lama, dan karena itu, tidak sinkron. Sebagai contoh:
+<div align="justify">Pemrograman asinkron adalah teknik yang memungkinkan program Anda untuk memulai tugas yang berpotensi berjalan lama dan masih dapat responsif    terhadap peristiwa lain saat tugas itu berjalan, daripada harus menunggu sampai tugas itu selesai. Setelah tugas itu selesai, program Anda disajikan dengan          hasilnya. Banyak fungsi yang disediakan oleh browser, terutama yang paling menarik, berpotensi memakan waktu lama, dan karena itu, tidak sinkron. Sebagai contoh:
   
   - Membuat permintaan HTTP menggunakan fetch()
   - Mengakses kamera atau mikrofon pengguna menggunakan getUserMedia()
@@ -221,7 +221,7 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
 
 # *Day 5*
 # JavaScript Intermediate Web Storage
-  <div align="justify">Ada beberapa cara untuk menyimpan data pengguna seperti pencarian, artikel berita, dan lain-lain ke lokal (browser) menggunakan web storage     seperti cookies, local storage, dan session storage. Data ini dimanfaatkan oleh situs web tersebut untuk merekam kebiasaan pengguna agar dapat memberikan           rekomendasi sesuai preferensi si pengguna tersebut.
+<div align="justify">Ada beberapa cara untuk menyimpan data pengguna seperti pencarian, artikel berita, dan lain-lain ke lokal (browser) menggunakan web storage     seperti cookies, local storage, dan session storage. Data ini dimanfaatkan oleh situs web tersebut untuk merekam kebiasaan pengguna agar dapat memberikan           rekomendasi sesuai preferensi si pengguna tersebut.
   
 - ### Apa itu Cookies?
 <div align="justify">Cookies adalah data kecil yang dikirim dari situs web dan disimpan di komputer kita oleh web browser saat kita menjelajah. Disebut data kecil   karena maksimum data yang dapat disimpan dalam cookies adalah 4096 bytes (4 KB). Biasanya data yang disimpan di cookies adalah access token pengguna saat login     atau  data pencarian saat melakukan pencarian pada situs web tertentu. Hal ini yang biasanya dilakukan oleh situs pencarian untuk melacak pencarian kita dan         menampilkan  iklan yang berhubungan dengan pencarian kita sebelumnnya. Namun ada beberapa kekurangan yang perlu kita perhatikan mengenai cookies di antaranya:
@@ -281,7 +281,13 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
 # React JS Hooks
 <div align="justify">Hooks adalah fitur baru yang baru dikenalkan di react js pada tahun 2018 inti dari Hooks adalah untuk memudahkan penggumaan functional components agar bisa menggunakan state, dan lifecycle lainnya. Sebelumnya, state dan lifecycle hanya bisa digunakan di class component namun dengan hooks.
 
+# **RANGKUMAN MINGGU 7**
+# *Day 1*
+# React JS Lanjutan Proptypes
+<div align="justify">Proptypes adalah cara agar kita bisa memasukan bentuka data yang kita mau, jadi apabila data yang di inginkan bertype string maka harus string tidak bisa yang lain. Nah ini kegunaan dari sebuah proptypes membantu kita agar sesuai ekspetasi dan jika tidak sesuai akan muncul pesan EROR.
 
+# *Day 2*
+# React Router
 
 
 
