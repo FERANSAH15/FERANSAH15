@@ -288,6 +288,16 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
 
 # *Day 2*
 # React Router
+<div align="justify">
+
+# *Day 3*
+#  State Management React Redux 
+
+# *Day 4*
+# State Management Redux
+
+# *Day 5*
+# Async Actions with Middleware and Thunk
 
 
 
