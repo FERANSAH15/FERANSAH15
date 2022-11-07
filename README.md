@@ -1,5 +1,5 @@
 # **RANGKUMAN MINGGU 1**
-# *Day 1*
+
 # Unix Command Line
 - ### CLI 
   <div align="justify">Merupakan sebuah program yang memungkinkan user mengetik perintah atau command yang akan mmemerintahkan perangkat komputer untuk melakukan suatu tugas tertentu.
@@ -20,7 +20,6 @@
   - mv (move), untuk memindahkan file directory.
   - rm (remove), untuk menghapus file directory.
     
-# *Day 2*
 # Git & Github
 - ### Git
   <div align="justify">Merupakan aplikasi yang dapat melacaks suatu perubahan yang terjadi di suatu folder ataupun file, yang biasanya digunakan oleh programmer sebagai tempat untuk menyimpan file programan mereka karena lebih efektif. 
@@ -32,8 +31,7 @@
   - git commit, untuk melakukan commit atau menyimpan perubahan pada version control pada git. Dan kita bisa menambahkan pesan untuk membeikan checkout pada setiap perbuahan. contohnya "git commit -m "pesan checkout"
   - git push origin, untuk mempublish file atau aplikasi ke github.
   - git clone, untuk melakukan cloning dari github ke komputer atau local.
-    
-# *Day 3*
+   
 # HTML
   <div align="justify">Html merupakan bahasa komputer yang digunakan untuk membuat kerangka atau struktur untuk Web pages (halaman website) di internet. Bagaimana peran HTML pada web development? Web browser seperti Chrome, Firefox, Edge, Safari, atau Opera akan membaca dokumen HTML. Dokumen HTML yang berisi tag-tag HTML akan memberitahu browser bagaimana cara menampilkan sebuah konten. Didalam website selalu ada title untuk tiap-tiap web, untuk memasukkan title didalam web kamu harus mengetikkan diantara tag title (dapat diisikan dengan nama website kamu atau yang lainnya). Untuk memasukkan konten-konten, kamu dapat memasukkannya atau mengetikkannya didalam program tepat diantara tag body.
 
@@ -58,7 +56,6 @@
   - color Adalah sebuah properti berupa bagian mana dari element HTML yang akan diubah. Contoh diatas kita akan mengubah warna dari teks yang ada di element p.
   - black Adalah value yaitu nilai/hiasan berupa warna biru.
 
-# *Day 4*
 # Algoritma dan Struktur Data
   <div align="justify">Algortima merupakan deskripsi berupa step-step yang dibutuhkan untuk menyelesaikan suatu masalah. Untuk menyelesaikan suatu masalah, tentunya kita harus mempunyai data struktur, nah data inilah yang akan kita gunakan untuk menyelesaikan suatu masalah dengan menggunakan algoritma 
 
@@ -89,7 +86,6 @@
 - #### Syntax dan Statement
   <div align="justify">Syntax bisa dianalogikan seperti kosa kata (vocabulary) dan tata cara (grammar) pada bahasa pemograman. Kita menggunakan syntax tertentu untuk membuat statement program, instruksi untuk djalankan/dieksekusi oleh web browser, compiler, ataupun intrepreter.
     
-# *Day 5*
 # Javascript Scope & Function
 - ### Javascript  Scope
   
@@ -124,7 +120,6 @@
   - Primitive & Non Primitive
   
 # **RANGKUMAN MINGGU 2**
-# *Day 1*
 # Scope
 <div align="justify">Scope adalah konsep dalam flow data variabel. Menentukan suatu variabel bisa diakses pada scope tertentu atau tidak.
 Blocks adalah code yang berada didalam curly braces {} Conditional, function, dan  looping menggunakan blocks. 
@@ -134,7 +129,6 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
 # Function
 <div align="justify">Function adalah sebuah blok kode dalam sebuah grup untuk menyelesaikan 1 task/1 fitur. Saat kita membutuhkan fitur tersebut nantinya, kita bisa kembali menggunakannya.
 
-# *Day 2*
 # Data type and method and properti
 <div align="justify">Semua bahasa pemrograman memiliki struktur data bawaan, tetapi ini sering berbeda dari satu bahasa ke bahasa lainnya. Artikel ini mencoba membuat daftar struktur data bawaan yang tersedia di JavaScript dan properti apa yang mereka miliki. Ini dapat digunakan untuk membangun struktur data lainnya. Jika memungkinkan, perbandingan dengan bahasa lain dibuat.
 <div align="justify">Jenis JavaScript Himpunan tipe dalam bahasa JavaScript terdiri dari nilai dan objek primitif.
@@ -145,7 +139,6 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
   - Math
   - Primitive & Non Primitive
   
-# *Day 3, 4, 5*
 # DOM Manipulation
 <div align="justify">Bagian ini mencakup Model Objek Dokumen JavaScript (DOM) dan menunjukkan kepada Anda cara memanipulasi elemen DOM secara efektif.
 
@@ -162,7 +155,6 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
   - removeChild() – remove child elements of a node.
   
 # **RANGKUMAN MINGGU 3**
-# *Day 1*
 # JavaScript Array
 <div align="justify">Mengorganisasi data dan menyimpan data adalah core concept dari programming. Array adalah tipe data list order yang dapat menyimpan tipe data apapun di dalamnya. Array dapat menyimpan tipe data String, Number, Boolean, dan lainnya.
 
@@ -176,7 +168,6 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
 - ### Looping pada ArrayLooping pada Array
   <div align="justify">Array memiliki built in methods untuk melakukan looping yaitu .map() dan .forEach()
   
-# *Day 2*
 # JavaScript Object
   <div align="justify">object adalah sebuah tipe data pada variabel yang menyimpan properti dan fungsi (method).
   Properti adalah data lengkap dari sebuah object. Method adalah action dari sebuah object. Apa saja yang dapat dilakukan dari suatu object.
@@ -202,7 +193,6 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
 - ### Array of Object
   <div align="justify">Object sama seperti Array yang bisa menyimpan banyak data.Kita dapat menggunakan array of object untuk data yang lebih dari satu.
   
-# *Day 3*
 # Javascript  Recursive
   <div align="justify">Recursive adalah function yang memanggil dirinya sendiri sampai kondisi tertentu.  Recursive kebanyakan digunakan untuk case matematika,       fisika, kimia, dan yang berhubungan dengan calculation.
 
@@ -211,7 +201,6 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
   
   - Fungsi rekursif selalu memanggil dirinya sendiri sambil mengurangi atau memecahkan data masukan setiap panggilannya. Hal ini penting diingat, karena tujuan         utama dari rekursif ialah memecahkan masalah dengan mengurangi masalah tersebut menjadi masalah-masalah kecil.
   
-# *Day 4*
 # JavaScript Intermediate  Asynchronous  Introduction & Promise
 <div align="justify">Pemrograman asinkron adalah teknik yang memungkinkan program Anda untuk memulai tugas yang berpotensi berjalan lama dan masih dapat responsif    terhadap peristiwa lain saat tugas itu berjalan, daripada harus menunggu sampai tugas itu selesai. Setelah tugas itu selesai, program Anda disajikan dengan          hasilnya. Banyak fungsi yang disediakan oleh browser, terutama yang paling menarik, berpotensi memakan waktu lama, dan karena itu, tidak sinkron. Sebagai contoh:
   
@@ -219,7 +208,6 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
   - Mengakses kamera atau mikrofon pengguna menggunakan getUserMedia()
   - Meminta pengguna untuk memilih file menggunakan showOpenFilePicker()
 
-# *Day 5*
 # JavaScript Intermediate Web Storage
 <div align="justify">Ada beberapa cara untuk menyimpan data pengguna seperti pencarian, artikel berita, dan lain-lain ke lokal (browser) menggunakan web storage     seperti cookies, local storage, dan session storage. Data ini dimanfaatkan oleh situs web tersebut untuk merekam kebiasaan pengguna agar dapat memberikan           rekomendasi sesuai preferensi si pengguna tersebut.
   
@@ -236,28 +224,57 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
 <div align="justify">Dengan memanfaatkan local storage dan session storage, kita dapat menyimpan data lebih besar yaitu 5MB per page tanpa mempengaruhi kinerja     situs web. Namun, penting untuk diketahui agar kita tidak menyimpan data sensitif seperti password ke dalam local storage ataupun session storage untuk             menghindari serangan pencurian data. Pada lesson ini kita akan fokus mempelajari keduanya.
   
 # **RANGKUMAN MINGGU 4**
-# *Day 1*
 # JavaScript Intermediate - Asynchronous - Fetch
 # JavaScript Intermdiate - Asynchronous - Async Await
 
-# *Day 2*
 # Git & Github Lanjutan
 <div align="justify">Git adalah aplikasi yang dapat melacak setiap perubahan yang terjadi pada suatu folder atau file. Git biasanya digunakan oleh para programmer   sebagai tempat penyimpanan file pemrograman mereka, karena lebih efektif. File -file yg disimpan menggunakan git akan terlacak seluruh perubahannya, termasuk       siapa yang mengubah. 
   
-# *Day 3*
 # Responsive Web Design
-<div align="justify"> Responsive Web Design adalah untuk membuat web kita dapat di akses di divice apa  saja. 
-# Bootstrap 5
+<div align="justify"> Responsive Web Design adalah untuk membuat web kita dapat di akses di divice apa  saja. Responsive Web Desin yaitu suatu tampilan website yang dapat menyesuikan dengan perangkat yang digunakan. Chrome Dev Tools merupakan tools pada google chrome yang digunakan sebagai tools Responsive Web Design
 
-# *Day 4 dan 5*
-# Grup Project
+- ### Untuk mengakses Chrome Dev Tools yaitu
+- ctrl + shift + j ctrl + shift + m digunakan untuk melihat toggle bar
+- Dalam menggunakan Responsive Web Design pada bagian HTML perlu ditambahkan viewport pada bagian head agar tampilan website dapat menyesuaikan dengan berbagai device
+- Untuk membuat suatu gambar pada halaman website agar menjadi responsive dapat dilakukan dengan menambahkan atribut Max - width = 100% pada bagian gambar
+- Media Query salah satu cara untuk mengatur suatu website agar bisa terdiri dari beberapa jenis
+- Penggunaan media query yang umum digunakan adalah min-width dan max-width
+- Contoh penerapan media query @media screen and (max-width: 500px)
+- Cara mengkondisikan Media Query ada 2 cara yaitu:
+- Memisahkan beberapa file css sesuai dengan tampilan device yang ingin dibuat
+- Menggabungkan semua styling css device menjadi 1
+- Breakpoint yaitu istilah saat terjadi perubahan ukuran pada suatu website ketika berganti device
+- Terdapat 3 jenis breakpoint yaitu desktop, tablet, dan mobile phone
+- Penggunaan breakpoint pada media query dapat dilakukan dengan membuat range ukuran sesuai dengan tampilan device yang ingin dibuat
+
+- ### Contoh breakpoint dapat ditulis seperti ini
+
+- @media screen and (min-width: 500px) and (max-width: 700px) {
+
+ body {
+  background-color: grey 
+  }
+ }
+
+- Flexbox bertujuan untuk membuat website yang lebih efisien dalam mengatur, menata dan item pada dalam sebuah wadah bahkan ketika ukurannya tidak diketahui dan/atau dinamis (dengan menggunakan kata "flex").
+
+- ### Flexbox properties :
+- Flex direction : menetapkan sumbu utama item, sehingga menentukan arah item fleksibel ditempatkan di wadah fleksibel.
+- Row : Kiri ke kanan
+- Row-Reverse : Kanan ke kiri
+- Column : Atas ke bawah
+- Column-Reverse : Bawah ke atas
+- Flex Wrap : Secara default, semua item pada flexbox akan mencoba berada dalam satu baris. Maka dengan flex wrap kita dapat mengubah hal tersebut.
+- nowrap : semua item flex akan berada dalam satu baris
+- wrap : item fkex akan membungkus ke beberapa baris, dari atas ke bawah.
+- wrap-reverse :item flex akan membungkus beberapa baris dari bawah ke atas.
+- Flex flow : cara singkat untuk properti flex-direction dan flex-wrap, yang bersama-sama menentukan sumbu utama dan sumbu silang container flex. Nilai default adalah baris nowrap.
+- Align items
 
 # **RANGKUMAN MINGGU 5**
-# *Day 1 sampai 5*
 # Grup Project  
 
 # **RANGKUMAN MINGGU 6**
-# *Day 1*
 # Intro React JS dan React JS
 <div align="justify"> React JS adalah framework view library Javascript untuk membuat tampilan pad sebuah website, mengapa menggunakan React JS karena dengan       menggunakan react membuat aplikasi website jauh lebih cepat dan dapat menghandle berbagai data.
     
@@ -273,31 +290,44 @@ Local scope berarti kita mendeklarasikan variabel didalam blocks seperti functio
 - ### React JS Popular
   <div align="justify">Komunitras React JS di sluruh dunia sangat besar, kebanyakan     perusahaan teknologi pun sudah menggunakan React JS.
 
-# *Day 2, 3 dan 5*
 # React JS Component
 <div align="justify">Component adalah salah satu core dari React JS. Component membagi UI dalam satuan-satuan kecil. Artinya dalam 1 page ada beberapa component yang bisa kita buat. Component dibuat jika component tersebut bersifat reusable code. Pada skala project, buatlah component tersebut akan dibutuhkan pada section atau page lain.   
 
-# *Day 4*
 # React JS Hooks
 <div align="justify">Hooks adalah fitur baru yang baru dikenalkan di react js pada tahun 2018 inti dari Hooks adalah untuk memudahkan penggumaan functional components agar bisa menggunakan state, dan lifecycle lainnya. Sebelumnya, state dan lifecycle hanya bisa digunakan di class component namun dengan hooks.
 
 # **RANGKUMAN MINGGU 7**
-# *Day 1*
 # React JS Lanjutan Proptypes
 <div align="justify">Proptypes adalah cara agar kita bisa memasukan bentuka data yang kita mau, jadi apabila data yang di inginkan bertype string maka harus string tidak bisa yang lain. Nah ini kegunaan dari sebuah proptypes membantu kita agar sesuai ekspetasi dan jika tidak sesuai akan muncul pesan EROR.
 
-# *Day 2*
 # React Router
-<div align="justify">
+<div align="justify">React Router merupakan standar library untuk routing pada React standar routing berfungsi untuk membuat suatu website menjadi dynamic. Pada React, Router membantu untuk mengarahka page satu ke page yg lainnya berdasarkan path url yg ditentukan.
 
-# *Day 3*
 #  State Management React Redux 
+<div align="justify">Redux digunakan untuk mengolah state management yaitu dengan menyimpan state di satu tempat, sehingga lebih mudah untuk di manage.
 
-# *Day 4*
+- ### Cara Kerja Redux :
+
+- Action : Adalah sebuah function yang mereturn sebuah objek.
+
+- Reducer : sebuah fungsi yang tugasnya untuk mengolah state yang ada di store.
+
+- Store : tempat untuk menampung state
+
 # State Management Redux
+<div align="justify">Redux digunakan untuk mengolah state managementState management pada dasarnya adalah cara untuk memfasilitasi komunikasi dan berbagi data di seluruh komponen.
 
-# *Day 5*
-# Async Actions with Middleware and Thunk
+- ### Redux Memudahkan User dalam :
+
+- menyimpan status aplikasi Anda.
+- mengelola status aplikasi Anda.
+- memberi tahu pihak yang berkepentingan ketika status aplikasi berubah.
+
+<div align="justify">Redux memungkinkan untuk mengelola status aplikasi Anda di satu tempat dan membuat perubahan di aplikasi mudah untuk diprediksi dan dilacak
+Redux thunk adalah middleware yang memungkinkan untuk memanggil pembuat aksi yang mengembalikan fungsi sebagai ganti objek aksi.
+Fungsi itu menerima metode pengiriman penyimpanan, yang kemudian digunakan untuk mengirim aksi sinkron di dalam isi fungsi setelah operasi asinkron selesai.
+Untuk penggunaan redux thunk dengan npm install redux-thunk@2.3.0
+
 
 
 
