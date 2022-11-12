@@ -329,6 +329,26 @@ Fungsi itu menerima metode pengiriman penyimpanan, yang kemudian digunakan untuk
 Untuk penggunaan redux thunk dengan npm install redux-thunk@2.3.0
 
 
+# **RANGKUMAN MINGGU 8**
+# React Context
+<div align="justify">Context hampir sama dengan redux namun dengan cara yg lebih simplex, UseContext juga dikatakan sebagai general store dimana data dapat digunakan di berbagai komponen, tanpa harus menjadikan data sebagai props di setiap komponennya.
+
+# React Testing
+<div align="justify">Testing merupakan suatu cara untuk melakukan tes komponen pada react. Untuk melakukan testing dapat menggunakan framework javascript berupa jest.
+
+# Unit Testing
+<div align="justify">Unit testing adalah sebuah pekerjaan untuk melakukan pengujian pada suatu bagian pada aplikasi yang telah buat. Tujuan dari unit testing sendiri yaitu untuk melakukan validasi setiap unit pada kode aplikasi agar berfungsi seperti yang diharapkan.
+
+Unit testing memiliki tiga teknik yang disebut black box testing, white box testing dan gray box testing.
+
+- Black Box Testing Black box testing adalah sebuah pengujian yang tidak perlu melihat dan memahami suatu software lebih dalam, pengujiannya melalui user interface, input dan output.
+
+- White Box Testing White box testing bersifat transparan jadi kita bisa melihat suatu sistem dari awal sampai akhir untuk dilakukan testing. Untuk testingnya dilakukan untuk menguji struktur internal, desain, fungsi dan detail implementasi dari sebuah aplikasi.
+
+- Grey Box Testing Grey box testing ini merupakan sebuah perpaduan antara black box testing dan white box testing. Pengujiannya ini digunakan untuk eksekusi test, resiko dan metode penilaian.
+
+
+
 
 
 
